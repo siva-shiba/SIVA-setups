@@ -1,5 +1,5 @@
-# Unseen Object Amodal Instance Segmentation (UOAIS)のセットアップ
-基本は[UOAIS](https://github.com/gist-ailab/uoais)Readmeにしたがってセットアップした
+# Unseen Object Amodal Instance Segmentation (UOAIS)のセットアップ  
+基本は[UOAIS](https://github.com/gist-ailab/uoais)  Readmeにしたがってセットアップした
 
 ## 今後の予定
 - [] UOAIS-SIM.zipをダウンロードする
@@ -10,7 +10,6 @@
 ## 本家とやり方が異なったものリスト  
 （日本語なのでリンクは機能してないです..)  
 - [3. 仮想環境の作成](#3.-仮想環境の作成)
-- [5. AdelaiDetのビルド](#5.-AdelaiDetのビルド)
 
 ## 1. リポジトリのダウンロードとフォルダ作成
 ```
