@@ -16,4 +16,4 @@ We setup with the following environment unless notice.
 
 
 ## Setups list (セットアップしたやつ一覧)
-[UOAIS](/UOAIS/UOAIS.md)
+[UOAIS](/UOAIS/UOAIS_setup.md)
