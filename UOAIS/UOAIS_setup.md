@@ -2,7 +2,10 @@
 基本は[UOAIS](https://github.com/gist-ailab/uoais)  Readmeにしたがってセットアップした
 
 ## 今後の予定
-- [] UOAIS-SIM.zipをダウンロードする
+- [X] UOAIS-SIM.zipをダウンロードする
+- [ ] サンプルデータで学習回してみる
+- [ ] 自作データで学習回してみる
+- [ ] ROS環境で動かしてみる
 
 ## setupした場所
 > ~/clones/
