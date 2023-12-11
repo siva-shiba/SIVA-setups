@@ -16,8 +16,12 @@ We setup with the following environment unless notice.
 
 ## TODO
 [x] エディター(sublimeText)のインストールスクリプトを追加  
-[] エディターの初期設定のスクリプトを追加 
+[x] エディターの初期設定のスクリプトを追加  
+[ ] ubuntu20へのアプデ  
+[ ] hsrのシミュレータ環境のセットアップ  
 
 
 ## Setups list (セットアップしたやつ一覧)
-[UOAIS](/UOAIS/UOAIS_setup.md)
+[UOAIS](/UOAIS/UOAIS_setup.md)  
+[Sublime Text](/script/sublimeText_setup.md)
+
