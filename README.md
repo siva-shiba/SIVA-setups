@@ -14,6 +14,10 @@ We setup with the following environment unless notice.
 > Python2 : 2.7.17  
 > Python3 : 3.6.9
 
+## TODO
+[x] エディター(sublimeText)のインストールスクリプトを追加  
+[] エディターの初期設定のスクリプトを追加 
+
 
 ## Setups list (セットアップしたやつ一覧)
 [UOAIS](/UOAIS/UOAIS_setup.md)
